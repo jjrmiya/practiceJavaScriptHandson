@@ -1,0 +1,19 @@
+{
+  "name": "practicejavascripthandson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjrmiya/practiceJavaScriptHandson.git"
+  },
+  "author": "miyamoto_s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjrmiya/practiceJavaScriptHandson/issues"
+  },
+  "homepage": "https://github.com/jjrmiya/practiceJavaScriptHandson#readme"
+}
